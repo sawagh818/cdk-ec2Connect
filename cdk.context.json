@@ -1,8 +1,8 @@
 {
-  "vpc-provider:account=120569642263:filter.vpc-id=vpc-074dee9cd8b8d289b:region=us-east-1:returnAsymmetricSubnets=true": {
+  "vpc-provider:account=12345678910:filter.vpc-id=vpc-074dee9cd8b8d289b:region=us-east-1:returnAsymmetricSubnets=true": {
     "vpcId": "vpc-074dee9cd8b8d289b",
     "vpcCidrBlock": "172.31.0.0/16",
-    "ownerAccountId": "120569642263",
+    "ownerAccountId": "12345678910",
     "availabilityZones": [],
     "subnetGroups": [
       {
@@ -49,10 +49,10 @@
       }
     ]
   },
-  "vpc-provider:account=120569642263:filter.isDefault=true:region=us-east-1:returnAsymmetricSubnets=true": {
+  "vpc-provider:account=12345678910:filter.isDefault=true:region=us-east-1:returnAsymmetricSubnets=true": {
     "vpcId": "vpc-074dee9cd8b8d289b",
     "vpcCidrBlock": "172.31.0.0/16",
-    "ownerAccountId": "120569642263",
+    "ownerAccountId": "12345678910",
     "availabilityZones": [],
     "subnetGroups": [
       {

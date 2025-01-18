@@ -7,7 +7,7 @@ import { Construct } from 'constructs';
 const stack = new cdk.Stack(new cdk.App(), 'test', {
   env: {
     region: 'us-east-1',
-    account: '120569642263', // your account here
+    account: '12345678910', // your account here
   },
 })
 
